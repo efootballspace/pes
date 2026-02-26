@@ -115,7 +115,7 @@ h2 {
 
 .card img {
     width: 240%;
-    height: 240%;
+    height: auto;
     display: block;
     border-radius: 8px;
 }
